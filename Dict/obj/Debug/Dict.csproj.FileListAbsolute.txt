@@ -1,0 +1,10 @@
+E:\code\C#\Dict\Dict\bin\Debug\Dict.exe.config
+E:\code\C#\Dict\Dict\bin\Debug\Dict.exe
+E:\code\C#\Dict\Dict\bin\Debug\Dict.pdb
+E:\code\C#\Dict\Dict\obj\Debug\Dict.csprojAssemblyReference.cache
+E:\code\C#\Dict\Dict\obj\Debug\Dict.Form1.resources
+E:\code\C#\Dict\Dict\obj\Debug\Dict.Properties.Resources.resources
+E:\code\C#\Dict\Dict\obj\Debug\Dict.csproj.GenerateResource.cache
+E:\code\C#\Dict\Dict\obj\Debug\Dict.csproj.CoreCompileInputs.cache
+E:\code\C#\Dict\Dict\obj\Debug\Dict.exe
+E:\code\C#\Dict\Dict\obj\Debug\Dict.pdb

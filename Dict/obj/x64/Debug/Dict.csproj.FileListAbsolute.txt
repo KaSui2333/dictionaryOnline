@@ -1,0 +1,15 @@
+E:\code\C#\Dict\Dict\bin\x64\Debug\Dict.exe.config
+E:\code\C#\Dict\Dict\bin\x64\Debug\Dict.exe
+E:\code\C#\Dict\Dict\bin\x64\Debug\Dict.pdb
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.csprojAssemblyReference.cache
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.Form1.resources
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.Properties.Resources.resources
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.csproj.GenerateResource.cache
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.csproj.CoreCompileInputs.cache
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.exe
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.pdb
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.Form2.resources
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.Form3.resources
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.Form5.resources
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.Form6.resources
+E:\code\C#\Dict\Dict\obj\x64\Debug\Dict.Form4.resources
